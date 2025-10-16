@@ -1,5 +1,7 @@
 # PowerBI-AI-Agent 🚀
 
+here is the link :: https://ai.studio/apps/drive/1sGdMbceDlv2sFfKMHw7ot06VHxXz2A0p
+
 **Intelligent Power BI Visualization & DAX Assistant** built with **Google AI Studio**.  
 This agent acts as a domain-aware, agentic AI consultant that generates **optimized dashboards, DAX formulas, and visualization mockups** from uploaded datasets, PBIX files, or screenshots.
 
