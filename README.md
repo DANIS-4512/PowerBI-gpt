@@ -6,7 +6,8 @@ here is the link :: https://ai.studio/apps/drive/1sGdMbceDlv2sFfKMHw7ot06VHxXz2A
 This agent acts as a domain-aware, agentic AI consultant that generates **optimized dashboards, DAX formulas, and visualization mockups** from uploaded datasets, PBIX files, or screenshots.
 
 ---
-<img width="1355" height="762" alt="Screenshot 2025-10-16 133851" src="https://github.com/user-attachments/assets/e93c9c81-b46e-4261-aa31-5c776182d5b0" />
+<img width="1376" height="763" alt="image" src="https://github.com/user-attachments/assets/a77af70d-f066-4662-b066-a9b7d5c44fd8" />
+
 
 
 ## 🌟 Features
